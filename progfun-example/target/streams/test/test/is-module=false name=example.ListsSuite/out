@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mListsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is two[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is three?[0m[0m
+[0m[[0minfo[0m] [0m[32m- details why one plus one is not three[0m[0m
+[0m[[0minfo[0m] [0m[32m- intNotZero throws an exception if its argument is 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of neg list[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of neg list[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of zero list[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of zero list[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of list wirh only 1s[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of list with only 1s[0m[0m
